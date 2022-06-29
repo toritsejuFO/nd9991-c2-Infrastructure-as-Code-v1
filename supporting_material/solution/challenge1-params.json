@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "defaultVpcId",
+    "ParameterValue": "vpc-0ca0f7bbd95e63a2b"
+  },
+  {
+    "ParameterKey": "randomSubnetId",
+    "ParameterValue": "subnet-0d9024e1be7d659dd"
+  },
+  {
+    "ParameterKey": "myAmiId",
+    "ParameterValue": "ami-0cff7528ff583bf9a"
+  },
+  {
+    "ParameterKey": "myKeyPairId",
+    "ParameterValue": "course2_kp"
+  }
+]
