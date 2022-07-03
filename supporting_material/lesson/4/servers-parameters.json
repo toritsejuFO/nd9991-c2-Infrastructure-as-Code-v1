@@ -1,0 +1,15 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject"
+  },
+  {
+    "ParameterKey": "AmiId",
+    "ParameterValue": "ami-0cff7528ff583bf9a"
+  },
+  {
+    "ParameterKey": "WebServerSecGroupId",
+    "ParameterValue": "sg-03a098bacbb6446e2"
+  }
+
+]
